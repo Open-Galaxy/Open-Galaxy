@@ -1,4 +1,4 @@
-# OpenGalaxy
+# 开放星河-OpenGalaxy
 您好，这里是星河科技旗下的开源组织开放星河的Github账号！
 ## 团队成员
 [MeowSauce](https://github.com/MeowsSauce)，[ShanShui](https://github.com/ShanShui2022)
